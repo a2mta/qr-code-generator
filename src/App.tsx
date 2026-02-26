@@ -118,10 +118,6 @@ export default function App() {
       <main className="mx-auto grid w-[min(1040px,92vw)] grid-cols-1 gap-4 py-8 font-['IBM_Plex_Sans','Segoe_UI',sans-serif] text-[#161414] md:grid-cols-[repeat(auto-fit,minmax(320px,1fr))]">
         <section className={panelClass}>
           <h1 className="mb-2 text-3xl font-bold leading-tight">QR Generator MVP</h1>
-          <p className="mb-4 text-[#514733]">
-            Minimal interface for qrcodegen high-level and mid-level controls.
-          </p>
-
           <label htmlFor="qr-input" className={labelClass}>
             Content
           </label>
