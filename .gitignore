@@ -40,3 +40,4 @@ components.d.ts
 
 # caches
 .eslintcache
+.node_modules

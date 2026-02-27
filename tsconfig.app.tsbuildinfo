@@ -1,1 +1,1 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/components/QrPreview.tsx","./src/lib-adapters/qr.ts","./src/libs/qrCodeGenerator.ts"],"version":"5.9.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/qrpreview.tsx","./src/lib-adapters/qr.ts","./src/libs/qrcodegenerator.ts"],"version":"5.9.3"}
